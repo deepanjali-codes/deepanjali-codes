@@ -9,7 +9,7 @@
 
 - 👯 It was fun doing it [tic tac toe](tic-tac-toe-dusky-iota.vercel.app)
 
-- 🤝 I’m looking for help with [tour_menu](coding-five-cyan.vercel.app)
+- 🤝 I’m looking for help with my python projects.
 
 - 💬 Ask me about **Linux Arch, html/css, JS, Python**
 
