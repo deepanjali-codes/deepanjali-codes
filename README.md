@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [✨ Pixel Study Timer](pixel-study-timer.vercel.app)
 
-- 🌱 I’m currently learning **bootstrap, C++ & Linux kali**
+- 🌱 I’m currently learning **Backend-development, C++ & Linux arch**
 
 - 👯 It was fun doing it [tic tac toe](tic-tac-toe-dusky-iota.vercel.app)
 
