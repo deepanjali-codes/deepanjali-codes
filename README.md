@@ -1,361 +1,167 @@
+# 🌟 Deepanjali Vishwakarma | Crafting Code in the Digital Darkness
+
 <div align="center">
-
-# ⚡ MY AESTHETICS ESTABLISHED ⚡
-
-```
-
-
-░█████╗░███████╗░██████╗████████╗██╗░░██╗███████╗████████╗██╗░█████╗░░██████╗  ████████╗░█████╗░
-██╔══██╗██╔════╝██╔════╝╚══██╔══╝██║░░██║██╔════╝╚══██╔══╝██║██╔══██╗██╔════╝  ╚══██╔══╝██╔══██╗
-███████║█████╗░░╚█████╗░░░░██║░░░███████║█████╗░░░░░██║░░░██║██║░░╚═╝╚█████╗░  ░░░██║░░░██║░░██║
-██╔══██║██╔══╝░░░╚═══██╗░░░██║░░░██╔══██║██╔══╝░░░░░██║░░░██║██║░░██╗░╚═══██╗  ░░░██║░░░██║░░██║
-██║░░██║███████╗██████╔╝░░░██║░░░██║░░██║███████╗░░░██║░░░██║╚█████╔╝██████╔╝  ░░░██║░░░╚█████╔╝
-╚═╝░░╚═╝╚══════╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░╚════╝░╚═════╝░  ░░░╚═╝░░░░╚════╝░
-
-░█████╗░░█████╗░██████╗░███████╗░██████╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝
-██║░░╚═╝██║░░██║██║░░██║█████╗░░╚█████╗░
-██║░░██╗██║░░██║██║░░██║██╔══╝░░░╚═══██╗
-╚█████╔╝╚█████╔╝██████╔╝███████╗██████╔╝
-░╚════╝░░╚════╝░╚═════╝░╚══════╝╚═════╝░
-```
-
-<img src="[https://capsule-render.vercel.app/api?type=waving](https://tenor.com/search/anime-girl-computer-gifs)&color=0:ff0080,25:00ffff,50:ff0080,75:00ffff,100:ff0080&height=180&section=header&text=◉%20Deepanjali Vishwakarma%20◉&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20CYBER%20OPERATIVE%20⚡&descAlignY=55&descAlign=50&descSize=20" alt="Cyberpunk Header" />
-
-```
-🔥 SYSTEM BREACH DETECTED 🔥
-⚡ ACCESSING MAINFRAME... ████████████ 100%
-💾 LOADING HACKER PROFILE...
-🌐 CONNECTION: SECURE
-```
-
----
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=I create coffee beans into Fascinating Websites;Deepening expertise in AI field;I think ramen 🍜 is best brain food." alt="Typing SVG" />
 </div>
 
-## 🖥️ TERMINAL SESSION - USER: Deepanjali Vishwakarma 🖥️
-
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-```bash
-┌─[root@deepanjali-codes]─[~]
-└──╼ $ whoami
-[Your alias]
-
-┌─[root@deepanjali-codes]─[~]  
-└──╼ $ cat /etc/location
-Mumbai, Maharashtra, India
-
-┌─[root@deepanjali-codes]─[~]
-└──╼ $ systemctl status
-I'm a firstyear student
-```
-
-</td>
-<td width="50%">
-
-```bash
-┌─[root@deepanjali-codes]─[~]
-└──╼ $ cat ~/.profile
-HACKER_LEVEL=ELITE
-FIREWALL_STATUS=BYPASSED
-NEURAL_LINK=ACTIVE
-
-┌─[root@deepanjali-codes]─[~]
-└──╼ $ echo $MISSION
-I create coffee beans into Fascinating Websites
-```
-
-</td>
-</tr>
-</table>
-
-```
-═══════════════════════════════════════════════════════════════════════════════
-⚡ NEURAL INTERFACE SYNCHRONIZED ⚡ ACCESSING DIGITAL UNDERGROUND ⚡
-═══════════════════════════════════════════════════════════════════════════════
-```
+  
+![Profile Views](https://komarev.com/ghpvc/?username=deepanjali-codes&color=00F5FF&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/deepanjali-codes?color=00F5FF&style=flat-square&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/deepanjali-codes?color=00F5FF&style=flat-square&logo=github)
 
 </div>
 
 ---
 
+## 🌐 **DIGITAL PRESENCE**
+
 <div align="center">
 
-## 🔥 CYBER ARSENAL - WEAPONS CACHE 🔥
-
-*Loading digital warfare toolkit...*
-
-![Tech Arsenal](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanjali-codes&layout=compact&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=10)
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 💻 **CORE SYSTEMS**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a0033 50%, #330066 100%); padding: 20px; border: 2px solid #ff0080; border-radius: 15px;">
-
-![Primary Arsenal](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=react,js,bootstrap,python,mysql,postgresql,linux,figma,photoshop,r,scikitlearn,numpy,jupyter,pandas,git,github,vscode,azure)](https://skillicons.dev)&theme=dark)
-
-```
-STATUS: LOADED
-THREAT: MAXIMUM
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio-eta-gilt-36.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanjali3346@gmail.com)
 
 </div>
-
-</td>
-<td align="center" width="25%">
-
-### 🛡️ **FRAMEWORKS**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #001a33 50%, #003366 100%); padding: 20px; border: 2px solid #00ffff; border-radius: 15px;">
-
-![Framework Shield](https://img.shields.io/badge/SHIELD-Full Stack development-00ffff?style=for-the-badge&logo=shield&logoColor=white)
-
-```
-STATUS: ACTIVE
-DEFENSE: ONLINE
-```
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-### ⚡ **EXPLOITS**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1a3300 50%, #336600 100%); padding: 20px; border: 2px solid #00ff00; border-radius: 15px;">
-
-![Exploit Kit](https://img.shields.io/badge/EXPLOIT-Adv. Python and C/C++-00ff00?style=for-the-badge&logo=bug&logoColor=white)
-
-```
-STATUS: LEARNING
-PROGRESS: 67%
-```
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-### 🔐 **ENCRYPTION**
-<div style="background: linear-gradient(135deg, #0d1117 0%, #330011 50%, #660022 100%); padding: 20px; border: 2px solid #ff4444; border-radius: 15px;">
-
-![Security Level](https://img.shields.io/badge/SECURITY-MAXIMUM-ff4444?style=for-the-badge&logo=lock&logoColor=white)
-
-```
-STATUS: ENCRYPTED
-LEVEL: QUANTUM
-```
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
-<div align="center">
+## 💫 **SYSTEM STATUS**
 
-## 💾 ACTIVE OPERATIONS - CLASSIFIED FILES 💾
-
+```yaml
+Name: Deepanjali Vishwakarma
+Location: Mumbai, Maharashtra, India
+Company: not
+Role: Frontend developer
+Experience: 2 years
+Status: I'm a firstyear student
+Current Goal: [Your currentGoal]
 ```
-🔓 DECRYPTING PROJECT DATABASE...
-⚡ ACCESSING SECURE REPOSITORIES...
-🌐 LOADING OPERATION DETAILS...
-```
-
-![Matrix Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🔥 **OPERATION PHOENIX**
-#### 💻 Ramen E-shop 💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepanjali-codes&repo=Ramen E-shop&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=10" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanjali-codes&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF" alt="GitHub Stats" />
 </div>
-
-```bash
-┌─[CLASSIFIED]─[OPERATION_PHOENIX]
-└──╼ $ cat mission_brief.txt
-THREAT LEVEL: ████████████ HIGH
-ENCRYPTION: AES-256
-STATUS: INFILTRATING TARGET
-```
-
-*[An e-shop of Ramens]*
-
-[![ACCESS TERMINAL](https://img.shields.io/badge/🔓_ACCESS_TERMINAL-ff0080?style=for-the-badge&logo=terminal&logoColor=white)](https://ramen-shop-puce.vercel.app/)
-
-</td>
-<td width="50%" align="center">
-
-### ⚡ **OPERATION NEON**
-#### 💻 A Pixel Study Timer 💻
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepanjali-codes&repo=A Pixel Study Timer&theme=synthwave&bg_color=0d1117&border_color=00ffff&title_color=ff0080&text_color=ffffff&icon_color=00ffff&hide_border=true&border_radius=10" width="100%">
-</div>
-
-```bash
-┌─[CLASSIFIED]─[OPERATION_NEON]
-└──╼ $ cat mission_brief.txt
-THREAT LEVEL: ████████████ CRITICAL
-ENCRYPTION: QUANTUM
-STATUS: BREACHING FIREWALL
-```
-
-*Pixel Study Timer isn’t just a boring stopwatch—it’s your ✨retro productivity sidekick✨. Built with a pixel-art aesthetic, this project turns studying, coding, or working into something that feels way less like a chore and way more like you’re grinding XP in an old-school game.*
-
-[![HACK MAINFRAME](https://img.shields.io/badge/⚡_HACK_MAINFRAME-00ffff?style=for-the-badge&logo=hackerrank&logoColor=black)](https://pixel-study-timer.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🌐 **OPERATION MATRIX**
-#### 💻 Laser light Game 💻
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepanjali-codes&repo=Laser light Game&theme=synthwave&bg_color=0d1117&border_color=00ff00&title_color=ff4444&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=10" width="60%">
-</div>
-
-```bash
-┌─[TOP_SECRET]─[OPERATION_MATRIX]
-└──╼ $ cat mission_brief.txt
-THREAT LEVEL: ████████████ MAXIMUM
-ENCRYPTION: NEURAL_LINK
-STATUS: ACCESSING THE MATRIX
-CLEARANCE: EYES ONLY
-```
-
-*[Your project3Description]*
-
-[![ENTER MATRIX](https://img.shields.io/badge/🌐_ENTER_MATRIX-00ff00?style=for-the-badge&logo=matrix&logoColor=black)](https://laser-light-game.vercel.app/)
-
-</td>
-</tr>
-</table>
 
 ---
 
-<div align="center">
-
-## 📊 SYSTEM DIAGNOSTICS - NEURAL ANALYTICS 📊
-
-```
-🔥 RUNNING DEEP SYSTEM SCAN...
-⚡ ANALYZING NEURAL PATTERNS...
-💾 GENERATING HACKER METRICS...
-```
-
-![Activity Matrix](https://github-readme-activity-graph.vercel.app/graph?username=deepanjali-codes&bg_color=0d1117&color=ff0080&line=00ffff&point=ffffff&area=true&hide_border=true&theme=synthwave)
-
-<table>
-<tr>
-<td align="center">
-
-![Hacker Stats](https://github-readme-stats.vercel.app/api?username=deepanjali-codes&show_icons=true&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=15)
-
-</td>
-<td align="center">
-
-![Code Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanjali-codes&theme=synthwave&background=0d1117&border=00ffff&stroke=ff0080&ring=00ffff&fire=ff0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=ffffff&hide_border=true&border_radius=15)
-
-</td>
-</tr>
-</table>
-
-### 🔥 **NEURAL NETWORK STATUS** 🔥
+## 🚀 **FEATURED PROJECTS**
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🖥️  TERMINAL METRICS                                       │
-├─────────────────────────────────────────────────────────────┤
-│  ⚡ ACTIVE CONNECTIONS: [VISITOR_COUNT]                     │
-│  💾 REPOSITORIES HACKED: [REPO_COUNT]                      │
-│  🔥 COMMITS PUSHED: [COMMIT_COUNT]                         │
-│  🌐 NEURAL UPTIME: [STREAK_DAYS] DAYS                      │
-│  🛡️ SECURITY BREACHES: 0 (UNHACKABLE)                     │
-└─────────────────────────────────────────────────────────────┘
-```
+### 🎯 Ramen E-shop
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepanjali-codes&repo=Ramen E-shop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF" alt="Ramen E-shop" />
 
-![Digital Trophies](https://github-profile-trophy.vercel.app/?username=deepanjali-codes&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&border_color=ff0080&title_color=00ffff)
+**[Your project1Description]**  
+`[Your project1Tech]`  
+[🔗 View Project](https://ramen-shop-puce.vercel.app/)
+
+---
+
+### 🎯 A Pixel Study Timer
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepanjali-codes&repo=A Pixel Study Timer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF" alt="A Pixel Study Timer" />
+
+**Pixel Study Timer isn’t just a boring stopwatch—it’s your ✨retro productivity sidekick✨. Built with a pixel-art aesthetic, this project turns studying, coding, or working into something that feels way less like a chore and way more like you’re grinding XP in an old-school game.**  
+`[Your project2Tech]`  
+[🔗 View Project](https://pixel-study-timer.vercel.app/)
+
+---
+
+### 🎯 Laser light Game
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepanjali-codes&repo=Laser light Game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF" alt="Laser light Game" />
+
+**[Your project3Description]**  
+`[Your project3Tech]`  
+[🔗 View Project](https://laser-light-game.vercel.app/)
 
 </div>
+
+---
+
+## ⚡ **TECH ARSENAL**
+
+<div align="center">
+
+### 🔥 **MOST USED LANGUAGES**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanjali-codes&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&layout=compact" alt="Top Languages" />
+
+### 🛠️ **CORE TECHNOLOGIES**
+![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=Python&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00F5FF?style=for-the-badge&logo=C++&logoColor=black)
+![JS](https://img.shields.io/badge/JS-00F5FF?style=for-the-badge&logo=JS&logoColor=black)
+
+### ⚙️ **FRAMEWORKS & TOOLS**
+React, python, C++, boostrap, MySQL, R, HTML, CSS, JS,Numpy, Pandas, archlinux
+
+### 🎯 **TECH STACK**
+`Full Stack development`
+
+### 📚 **CURRENTLY LEARNING**
+`Adv. Python and C/C++`
+
+</div>
+
+---
+
+## 📊 **ACTIVITY MATRIX**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanjali-codes&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanjali-codes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="Streak Stats" />
+</div>
+
+---
+
+## 🎵 **CODING SOUNDTRACK**
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=deepanjali-codes&count=3&unique=true" alt="Spotify Recently Played" />
+</div>
+
+---
+
+## 💭 **PHILOSOPHY**
+
+<div align="center">
+
+```
+"[Your favoriteQuote]"
+```
+
+**Personal Motto:** Fail fast, Learn better & Excute the best
+
+</div>
+
+---
+
+## 🌟 **CONNECT WITH THE MATRIX**
+
+<div align="center">
+
+**💬 Let's build something extraordinary together**
+
+```
+> ssh deepanjali-codes@github.com
+> cat contact.txt
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanjali3346@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,25:ff0080,50:00ffff,75:ff0080,100:00ffff&height=150&section=footer&text=⚡%20HACK%20THE%20PLANET%20⚡&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=75" alt="Cyberpunk Footer" />
-
-## 🌐 ESTABLISH SECURE CONNECTION 🌐
-
-*Choose your preferred communication protocol:*
-
-<table align="center">
-<tr>
-<td align="center">
-
-[![LinkedIn Terminal](https://img.shields.io/badge/💼_LINKEDIN_TERMINAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)]([Your linkedin])
-
-</td>
-<td align="center">
-
-[![Twitter Feed](https://img.shields.io/badge/🐦_TWITTER_FEED-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=001a33)]([Your twitter])
-
-</td>
-<td align="center">
-
-[![Web Portal](https://img.shields.io/badge/🌐_WEB_PORTAL-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a3300)](https://portfolio-eta-gilt-36.vercel.app/)
-
-</td>
-</tr>
-</table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
 
 ---
 
-### 💾 **CONNECTION LOG** 💾
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/deepanjali-codes/count.svg?color=ff0080&style=for-the-badge&background=0d1117" alt="Terminal Sessions" />
-</p>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                 │
-│  ⚡ "Welcome to the underground, fellow hacker.                                 │
-│     You've just connected to a secure terminal.                                 │
-│     All communications are encrypted and untraceable.                           │
-│     Remember: Information wants to be free.                                     │
-│     Stay anonymous. Stay vigilant. Hack the planet." ⚡                         │
-│                                                                                 │
-│  💾 System Administrator: Deepanjali Vishwakarma                                |             
-│  🔥 Terminal ID: deepanjali-codes                                                |
-│  🌐 Last Login: [TIMESTAMP_NOW]                                                 │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<sub>*🔐 This terminal session is secured with quantum encryption. All data transmissions are protected by advanced cybersecurity protocols. 🔐*</sub>
-
-![Terminal End](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
+<div align="center">
+  <i>⚡ "Code is poetry written in logic" ⚡</i>
 </div>
