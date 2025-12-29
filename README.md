@@ -26,7 +26,7 @@
 🏛️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🏛️
 ```
 
-<img src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif" width="700">
+<img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="500">
 
 </div>
 
