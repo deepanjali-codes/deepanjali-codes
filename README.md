@@ -26,7 +26,7 @@
 🏛️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🏛️
 ```
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="700">
+<img src="(https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif)" width="700">
 
 </div>
 
@@ -268,8 +268,6 @@ CHA: █████████░  90/100
 <br/><br/>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95706c10d7ce" width="600">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,31,32,33,34,35,36,37&height=100&section=footer&text=⚔️+May+Your+Code+Be+Bug-Free+%26+Your+Gains+Be+Legendary+⚔️&fontSize=18&fontColor=FFD700" width="100%"/>
 
 **🏰 [ HERO'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ] 🏰**
 
