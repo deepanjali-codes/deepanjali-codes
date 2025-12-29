@@ -26,7 +26,7 @@
 🏛️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🏛️
 ```
 
-<img src="(https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif)" width="700">
+<img src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif" width="700">
 
 </div>
 
@@ -267,7 +267,7 @@ CHA: █████████░  90/100
 
 <br/><br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95706c10d7ce" width="600">
+<img src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" width="600">
 
 **🏰 [ HERO'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ] 🏰**
 
