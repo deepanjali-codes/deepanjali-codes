@@ -1,169 +1,84 @@
-# 🌃 Deepanjali Vishwakarma - Welcome to Vice City Code
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+Deepanjali Vishwakarma's+Criminal+Enterprise;Coding+in+Vice+City+Since+Day+One;Ready+to+Steal+Some+Code?" alt="Typing SVG" />
+
+# 💪 Deepanjali Vishwakarma - CODE & LIFT 🏋️‍♂️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=NO%20PAIN%20NO%20GAIN&fontSize=30&fontColor=fff&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=50&lines=Building+Muscles+%26+Building+Code+💻;I'm a firstyear student;Frontend developer+who+never+skips+leg+day+🦵;Debugging+code+like+I+debug+form+🔧)](https://git.io/typing-svg)
+
 </div>
 
-<div align="center">
-  <img src="https://gitsk-comp2.vercel.app/api/stats?user=deepanjali-codes" />
-</div>
+---
 
+## 🏋️‍♂️ **THE DEVELOPER ATHLETE**
 
+```typescript
+interface DeveloperAthlete {
+  name: string;
+  role: string;
+  company: string;
+  location: string;
+  motto: string;
+  dailyRoutine: {
+    morningLift: boolean;
+    codingHours: number;
+    proteinShakes: number;
+    commits: number;
+  };
+}
 
-## 🚗 Criminal Stats & Reputation
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/💰_Heists_Completed-∞-32CD32?style=for-the-badge&logo=dollar&logoColor=white&labelColor=000000" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🔫_Wanted_Level-⭐⭐⭐⭐⭐-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/🏢_Territory-Mumbai, Maharashtra, India-FF00FF?style=for-the-badge&logo=building&logoColor=white&labelColor=000000" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/👔_Organization-not-00FFFF?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🕴️ Criminal Profile
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=deepanjali-codes&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=ff00ff" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanjali-codes&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&text_color=ffffff&border_color=ff00ff" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-```python
-class CriminalMastermind:
-    def __init__(self):
-        self.name = "Deepanjali Vishwakarma"
-        self.alias = "deepanjali-codes"
-        self.role = "Frontend developer"
-        self.location = "Mumbai, Maharashtra, India"
-        self.organization = "not"
-        self.contact = "deepanjali3346@gmail.com"
-        self.hideout = "https://portfolio-eta-gilt-36.vercel.app/"
-    
-    def get_backstory(self):
-        return """
-        I create coffee beans into Fascinating Websites
-        """
-    
-    def current_operations(self):
-        return [A New Year Surprise for Friends & Family with the help of JS and React]
-    
-    def secret_intel(self):
-        return "I think ramen 🍜 is best brain food."
-    
-    def reputation_status(self):
-        return "LEGENDARY CRIMINAL MASTERMIND"
+const deepanjali-codes: DeveloperAthlete = {
+  name: "Deepanjali Vishwakarma",
+  role: "Frontend developer",
+  company: "not",
+  location: "Mumbai, Maharashtra, India",
+  motto: "Fail fast, Learn better & Excute the best",
+  dailyRoutine: {
+    morningLift: true,
+    codingHours: 60 hrs,
+    proteinShakes: 3,
+    commits: 15
+  }
+}
 ```
 
-## 🛠️ Criminal Arsenal & Tools
-
 <div align="center">
-  <h3>💻 Digital Weapons</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=react,js,bootstrap,python,mysql,postgresql,linux,figma,photoshop,r,scikitlearn,numpy,jupyter,pandas,git,github,vscode,azure)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🔧 Heist Equipment</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=react,js,bootstrap)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🏪 Underground Network</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&theme=dark" />
-  
-  <h3>🎮 Gaming & Design</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=react,js,bootstrap,python,mysql,postgresql,linux,figma,photoshop,r,scikitlearn,numpy,jupyter,pandas,git,github,vscode,azure)](https://skillicons.dev)blender,photoshop,figma,xd,sketch&theme=dark" />
+
+**📍 I create coffee beans into Fascinating Websites**
+
+![Strength](https://img.shields.io/badge/STRENGTH-DISCIPLINE-FF6B35?style=for-the-badge&logo=dumbbell&logoColor=white)
+![Mindset](https://img.shields.io/badge/MINDSET-GROWTH-00D2FF?style=for-the-badge&logo=brain&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-GRINDING-32CD32?style=for-the-badge&logo=fire&logoColor=white)
+
 </div>
 
-## 🎯 Active Heists & Operations
+---
+
+## 🔥 **CURRENT TRAINING PROGRAM**
 
 <div align="center">
-  <h3>🏦 Current Criminal Activities</h3>
-  
   <table>
     <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻-CODING_STRENGTH-FF6B35?style=for-the-badge&logo=code&logoColor=white" />
+        <br />
+        <strong>60 hrs hours/day</strong>
+        <br />
+        <em>Building robust applications</em>
+      </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🎮_Project_Alpha-A New Year Surprise for Friends & Family with the help of JS and React-FF00FF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🏋️‍♂️-PHYSICAL_STRENGTH-00D2FF?style=for-the-badge&logo=dumbbell&logoColor=white" />
+        <br />
+        <strong>6 days/week</strong>
+        <br />
+        <em>Progressive overload</em>
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/💎_Skill_Mastery-[![My Skills](https://skillicons.dev/icons?i=react,js,bootstrap,python,mysql,postgresql,linux,figma,photoshop,r,scikitlearn,numpy,jupyter,pandas,git,github,vscode,azure)](https://skillicons.dev)-00FFFF?style=for-the-badge&logo=diamond&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanjali-codes&theme=neon-dark&hide_border=true&background=0a0a0a&stroke=ff00ff&ring=00ffff&fire=ff0000&currStreakLabel=ff00ff&sideLabels=ffffff&dates=ffffff" />
-</div>
-
-## 🏆 Criminal Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanjali-codes&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Repositories,Commits,Issues,MultiLanguage,PullRequest,Reviews" />
-</div>
-
-## 📱 Secure Communication Channels
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="mailto:deepanjali3346@gmail.com">
-          <img src="https://img.shields.io/badge/📧_Encrypted_Comms-deepanjali3346@gmail.com-FF00FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
-        </a>
-      </td>
-      <td>
-        <a href="https://portfolio-eta-gilt-36.vercel.app/">
-          <img src="https://img.shields.io/badge/🌐_Secret_Hideout-https://portfolio-eta-gilt-36.vercel.app/-00FFFF?style=for-the-badge&logo=tor&logoColor=white&labelColor=000000" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 Criminal Activity Tracker
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanjali-codes&bg_color=0a0a0a&color=ff00ff&line=00ffff&point=ff0000&area=true&hide_border=true&custom_title=Criminal%20Activity%20Graph" />
-</div>
-
-## 🎰 Vice City Intel Drop
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I think ramen 🍜 is best brain food.&author=Deepanjali Vishwakarma&border=true" />
-</div>
-
-## 🌆 Neon Nights Footer
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=neon&color=gradient&customColorList=24&height=150&section=footer&animation=blinking&fontSize=25&text=Keep+It+Criminal%2C+Keep+It+Cool" />
-  
-  <h3>🚗💨 Thanks for visiting Vice City! Remember: In code we trust, in bugs we debug! 🚗💨</h3>
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=deepanjali-codes&color=ff00ff&style=neon&label=Heists+Witnessed" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🎮_Status-Online_in_Vice_City-00FF00?style=neon&logo=gamepad&logoColor=white&labelColor=000000" />
+        <img src="https://img.shields.io/badge/🧠-MENTAL_STRENGTH-32CD32?style=for-the-badge&logo=brain&logoColor=white" />
+        <br />
+        <strong>Continuous learning</strong>
+        <br />
+        <em>Adv. Python and C/C++</em>
       </td>
     </tr>
   </table>
@@ -171,6 +86,207 @@ class CriminalMastermind:
 
 ---
 
+## 💻 **TECH STACK = WORKOUT STACK**
+
 <div align="center">
-  <h4>🌃 "In a world full of bugs, be the feature." - Deepanjali Vishwakarma 🌃</h4>
+
+### 🥇 **PRIMARY LIFTS (LANGUAGES)**
+![Primary](https://img.shields.io/badge/DEADLIFT-JS-FF6B35?style=for-the-badge&logo=weight&logoColor=white)
+![Languages](https://img.shields.io/badge/COMPOUND_MOVEMENTS-[![My Skills](https://skillicons.dev/icons?i=python,r)](https://skillicons.dev)-FF6B35?style=for-the-badge&logo=barbell&logoColor=white)
+
+### 🏗️ **ACCESSORY WORK (FRAMEWORKS)**
+![Framework 1](https://img.shields.io/badge/BENCH_PRESS-React-00D2FF?style=for-the-badge&logo=dumbbell&logoColor=white)
+![Framework 2](https://img.shields.io/badge/SQUAT-Boostrap-00D2FF?style=for-the-badge&logo=weight-lifting&logoColor=white)
+![Framework 3](https://img.shields.io/badge/OVERHEAD_PRESS-[Your framework3]-00D2FF?style=for-the-badge&logo=muscle&logoColor=white)
+
+### 🗄️ **NUTRITION (DATABASES)**
+![Database 1](https://img.shields.io/badge/PROTEIN-PostgreSQL-32CD32?style=for-the-badge&logo=database&logoColor=white)
+![Database 2](https://img.shields.io/badge/CARBS-[Your database2]-32CD32?style=for-the-badge&logo=server&logoColor=white)
+
+### ☁️ **SUPPLEMENTS (CLOUD)**
+![Cloud](https://img.shields.io/badge/CREATINE-AWS-9D4EDD?style=for-the-badge&logo=cloud&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**💪 SKILL ICONS GAINZ 💪**
+
+React, python, C++, boostrap, MySQL, R, HTML, CSS, JS,Numpy, Pandas, archlinux
+
+</div>
+
+---
+
+## 🏆 **PERSONAL RECORDS (PROJECTS)**
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                         PROJECT GAINZ TRACKER                        ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### 🥇 **Ramen E-shop** - *Current PR*
+```yaml
+Exercise: [Your project1Description]
+Weight: [Your project1Tech]
+Reps: Production Ready
+Form Check: https://ramen-shop-puce.vercel.app/
+Repo: Ramen E-shop
+Status: ████████████████████████████████ 100% BEAST MODE
+```
+
+### 🥈 **A Pixel Study Timer** - *Volume Training*
+```yaml
+Exercise: Pixel Study Timer isn’t just a boring stopwatch—it’s your ✨retro productivity sidekick✨. Built with a pixel-art aesthetic, this project turns studying, coding, or working into something that feels way less like a chore and way more like you’re grinding XP in an old-school game.
+Weight: [Your project2Tech]
+Reps: Scalable
+Form Check: https://pixel-study-timer.vercel.app/
+Repo: A Pixel Study Timer
+Status: ████████████████████████████████ 100% STRONG
+```
+
+### 🥉 **Laser light Game** - *Technique Work*
+```yaml
+Exercise: [Your project3Description]
+Weight: [Your project3Tech]
+Reps: Optimized
+Form Check: https://laser-light-game.vercel.app/
+Repo: Laser light Game
+Status: ████████████████████████████████ 100% SOLID
+```
+
+---
+
+## 📊 **TRAINING METRICS & STATS**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepanjali-codes&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FFF&icon_color=00D2FF" alt="Coding Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanjali-codes&theme=radical&hide_border=true&background=0d1117&stroke=FF6B35&ring=00D2FF&fire=32CD32&currStreakLabel=FFF" alt="Consistency Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanjali-codes&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FFF" alt="Language Distribution" />
+
+</div>
+
+---
+
+## 🎯 **CURRENT GOALS & PHILOSOPHY**
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                           MINDSET PROGRAM                           │
+├─────────────────────────────────────────────────────────────────────┤
+│  Philosophy: [Your personalPhilosophy]                                 │
+│  Superpower: [Your superpower]                                         │
+│  Working On: [Your weakness]                                           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+![Current Goal](https://img.shields.io/badge/🎯-To learn more'n more from others to enhance myself-FF6B35?style=for-the-badge&logo=target&logoColor=white)
+![Next Goal](https://img.shields.io/badge/🔥-[Your nextGoal]-00D2FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Learning](https://img.shields.io/badge/📚-Adv. Python and C/C++-32CD32?style=for-the-badge&logo=book&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 **RECENT ACHIEVEMENTS**
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                            HALL OF FAME                              ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║  🥇 Built a Surprise website                                                   ║
+║  🥈 [Your achievement2]                                                  ║
+║  🔥 I think ramen 🍜 is best brain food.                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🎮 **RECOVERY & ACTIVE REST**
+
+<div align="center">
+
+```
+──────────────────────────────────────────────────────────────────────
+                              REST DAYS                               
+──────────────────────────────────────────────────────────────────────
+```
+
+![Hobby 1](https://img.shields.io/badge/🎯-Sleeping-FF6B35?style=for-the-badge&logo=gamepad&logoColor=white)
+![Hobby 2](https://img.shields.io/badge/🎵-Cooking-00D2FF?style=for-the-badge&logo=music&logoColor=white)
+
+*"Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time."*
+
+</div>
+
+---
+
+## 🤝 **TRAINING PARTNERS & CONNECTIONS**
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                         FIND YOUR SPOTTER                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+[![Website](https://img.shields.io/badge/🌐-WEBSITE-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio-eta-gilt-36.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your linkedin])
+[![Twitter](https://img.shields.io/badge/🐦-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Your twitter])
+[![Instagram](https://img.shields.io/badge/📸-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](deev_twist)
+[![Email](https://img.shields.io/badge/📧-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanjali3346@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏋️‍♂️ **VISITOR GAINZ COUNTER** 🏋️‍♂️
+
+![Visitor Count](https://profile-counter.glitch.me/deepanjali-codes/count.svg)
+
+```
+──────────────────────────────────────────────────────────────────────
+                           MOTIVATION ZONE                            
+──────────────────────────────────────────────────────────────────────
+```
+
+**"The code you write today is the foundation you lift tomorrow."**
+
+![Powered by Discipline](https://img.shields.io/badge/POWERED_BY-💪_DISCIPLINE-FF6B35?style=for-the-badge&logo=dumbbell&logoColor=white)
+![Fueled by Passion](https://img.shields.io/badge/FUELED_BY-🔥_PASSION-00D2FF?style=for-the-badge&logo=fire&logoColor=white)
+![Built with Consistency](https://img.shields.io/badge/BUILT_WITH-⚡_CONSISTENCY-32CD32?style=for-the-badge&logo=lightning&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=NEVER%20STOP%20GRINDING&fontSize=25&fontColor=fff&animation=fadeIn"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**🔥 REMEMBER: EVERY REP COUNTS, EVERY COMMIT MATTERS 🔥**
+
+*"Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't."*
+
 </div>
