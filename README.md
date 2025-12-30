@@ -121,8 +121,6 @@ CHA: █████████░  90/100
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepanjali-codes&theme=discord&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" width="100%" />
-
 </div>
 
 ---
