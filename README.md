@@ -247,9 +247,6 @@ CHA: █████████░  90/100
 ```
 
 <img src="https://komarev.com/ghpvc/?username=deepanjali-codes&label=⚡+Hero+Encounters&color=FFD700&style=for-the-badge" />
-<img src="https://badges.pufler.dev/visits/deepanjali-codes/deepanjali-codes?logo=GitHub&label=🏆+Guild+Reputation&color=FF6B9D&logoColor=white&style=for-the-badge" />
-<img src="https://badges.pufler.dev/commits/monthly/deepanjali-codes?logo=GitHub&label=🎯+Monthly+Quests&color=C792EA&logoColor=white&style=for-the-badge" />
-
 <br/><br/>
 
 <img src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" width="600">
