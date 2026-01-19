@@ -15,7 +15,7 @@
 ```
 <br>
 <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="500">
----
+<br>
 **☘[ GURLY'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ]☘**
 
 </div>
