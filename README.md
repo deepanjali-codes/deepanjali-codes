@@ -199,7 +199,7 @@ CHA: █████████░  90/100
 ```ascii
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  🌐 ESTABLISHING MAGICAL COMMUNICATION CRYSTALS...                        ║
-║  ⚡ MANA LINK STRENGTH: ████████████████████████████████████████ 100%     ║
+║  ⚡ MANA LINK STRENGTH: ███████████████████████████████████████ 100%     ║
 ║  🔮 ACTIVATING INTERDIMENSIONAL GUILD CHAT PROTOCOLS...                   ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -245,12 +245,8 @@ CHA: █████████░  90/100
 │  🎯 NEXT LEVEL UP: [COMMITS_TO_NEXT_LEVEL] XP remaining                │
 ╰─────────────────────────────────────────────────────────────────────────╯
 ```
-
 <img src="https://komarev.com/ghpvc/?username=deepanjali-codes&label=⚡+Hero+Encounters&color=FFD700&style=for-the-badge" />
 <br/><br/>
-
-<img src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" width="600">
-
 **🏰 [ HERO'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ] 🏰**
 
 </div>
