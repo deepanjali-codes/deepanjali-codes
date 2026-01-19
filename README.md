@@ -8,12 +8,12 @@
 ██─▀─███─▄█▀█▄▄▄▄─███─███─▄─██─▄█▀███─████─██─███▀█▄▄▄▄─█████─███─██─███─███▀█─██─██─██─██─▄█▀█
 ▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▀▄▄▄▀▀▄▀▄▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▀▀▀▄▄▄▀▀▄▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀
 
-#🎀━━━━━━━━━━━━━━━━━━━ ✩ ♬₊🎧 HERE YOUR GURLY! 🎀⋆☾⋆⁺₊✧ ━━━━━━━━━━━━━━━━━━━🎀
+🎀━━━━━━━━━━━━━━━━━━━ ✩ ♬₊🎧 HERE YOUR GURLY! 🎀⋆☾⋆⁺₊✧ ━━━━━━━━━━━━━━━━━━━🎀
      👑  Hey! I'm Deepanjali Vishwakarma | 🌍 HOMELAND: Mumbai, Maharashtra, India 👑
      💼 CLASS: Frontend developer | ⚡ SPECIAL ABILITY: [Python, Archlinux, JS & C++] ⚡
 🎀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🎀
 ```
-
+<br><br>
 <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="500">
 ---
 **𓆝 𓆟 𓆞 𓆝 𓆟 [ GURLY'S JOURNEY CONTINUES... LEVEL UP NEVER ENDS! ] 𓆝 𓆟 𓆞 𓆝 𓆟**
